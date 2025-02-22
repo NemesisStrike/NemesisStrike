@@ -1,5 +1,5 @@
 <h1 align="center">🕶️ Just a Human</h1>
-<h3 align="center">Software Engineer | Cyber Security Enthusiast </h3>
+<h3 align="center">Software Engineer | CySec Enthusiast </h3>
 
 ---
 
